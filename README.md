@@ -1,2 +1,3 @@
 # React_Intro
-Created with CodeSandbox
+
+Began basics of react. Including components.
